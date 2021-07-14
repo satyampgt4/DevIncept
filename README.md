@@ -32,9 +32,5 @@ git clone https://github.com/WH0SUMIT/propack.git
 
 <h3 align="center">DEMO</h3>
 <br>
-![demo](https://user-images.githubusercontent.com/56999749/125515506-6c2c2a51-7bc5-49d3-ba75-537e2bd575ad.JPG)
 
-
-
-
-![demo]()
+![demo-1](https://user-images.githubusercontent.com/56999749/125576357-52acde93-4894-408e-8011-dca66780e592.JPG)
