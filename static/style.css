@@ -678,7 +678,7 @@ margin-left: 30px;
 }
 footer .inner div{
   display:table-cell;
-  float: center;
+  float: right;
   padding: 10px;
 }
 footer  {
@@ -689,6 +689,9 @@ footer  {
   display:block;
   float: left;
   font-size: 20px;
+}
+footer p a{
+  display: table-cell;
 }
 
 footer a:hover .fa-instagram-square{
